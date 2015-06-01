@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/bin/python3
 
 # Based on script from http://breakingcode.wordpress.com/2010/06/29/google-search-python/
 
